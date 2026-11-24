@@ -4,6 +4,22 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Sign In Page
+![Sign In](Sceenshots/SignIn.png)
+
+### 🏠 Home Dashboard
+![Home Page](Sceenshots/Home%20Page.png)
+
+### 🎥 Meeting Room
+![Meeting Room](Sceenshots/Meeting%20room.png)
+
+### 🤖 AI Transcription Output
+![Final Output](Sceenshots/Final%20output.png)
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
