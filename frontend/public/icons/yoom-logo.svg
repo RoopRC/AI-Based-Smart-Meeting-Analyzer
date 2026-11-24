@@ -1,0 +1,23 @@
+<svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="250" height="60" fill="#1a1a2e"></rect>
+
+  <!-- Zoom-style icon -->
+  <g transform="translate(10, 10)">
+    <rect x="0" y="0" width="40" height="40" rx="12" fill="url(#blueGradient)"></rect>
+    <path d="M12 16c0-1.1.9-2 2-2h9c1.1 0 2 .9 2 2v2.5l4-2v11l-4-2V26c0 1.1-.9 2-2 2h-9c-1.1 0-2-.9-2-2v-8z" fill="white"></path>
+  </g>
+
+  <!-- Gradient for the blue background -->
+  <defs>
+    <linearGradient id="blueGradient" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B8DFF"></stop>
+      <stop offset="1" stop-color="#256DFF"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Text: MeetWise -->
+  <text x="60" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="white" font-weight="bold">
+    MeetWise
+  </text>
+</svg>
